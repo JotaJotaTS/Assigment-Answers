@@ -10,7 +10,7 @@ EMBL indicates me when I put the gff3 file.
 
 
 If you want to run the program you have to write in the linux terminal ruby, followed by the gene sequence you want and the input file's name.
-For examples: 
+For example: 
 $ ruby GFF3Program.rb 'CTTCTT' 'ArabidopsisSubNetwork_GeneList.txt' 
 
 The program will give you 'No_Matches_Report.txt', and the gff3 files.
