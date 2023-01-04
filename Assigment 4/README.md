@@ -7,7 +7,7 @@ In this exercise I tryed to use the given data set, however they are so big file
 
 I also upload a pep_sample.fa and target_sample.
 
-Ex of use with the original data:
+Examplo of program using the original data:
 
 ruby BlastProgram.rb TAIR10_cds_20101214_updated.fa pep.fa
 
